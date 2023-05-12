@@ -10,4 +10,4 @@ Portanto a ideia do projeto foi apresentar informações relevantes para a **tom
 
 # Clique no link abaixo para vizualizar o projeto por meio do Power BI
 
-https://app.powerbi.com/view?r=eyJrIjoiMDIxZDNmMzAtMTIwZC00ZmQ3LTk4ZjQtZDg2ZTVjYzFjYjU4IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
+ https://lnnk.in/hLfO
