@@ -1,4 +1,4 @@
-# Projeto Power BI
+# Projeto e-commerce com Power BI
 
 O projeto destaca o **Business Intelligence** para o **e-commerce** de um petshop fictício chamado Pets. Nele, foram realizadas as etapas de conexão Web com o Google Sheets para gerar a **fonte de dados e limpeza de dados, criação de medidas e cálculos dinâmicos,** além da construção de um dashboard interativo e visualmente atraente. 
 
