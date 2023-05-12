@@ -8,6 +8,5 @@ Também foi realizado a criação de **medidas, cálculos** dinâmicos para **ob
 
 Portanto a ideia do projeto foi apresentar informações relevantes para a **tomada de decisão,** com o conceito de Inteligência de negócios referindo-se ao processo de **coleta, organização, análise, compartilhamento e monitoramento de informações que oferecem suporte a gestão de negócios.**
 
-# Clique no link abaixo para vizualizar o projeto por meio do Power BI
-
+# Vizualize o projeto no link abaixo
  https://lnnk.in/hLfO
