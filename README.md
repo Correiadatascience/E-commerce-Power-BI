@@ -1,5 +1,7 @@
 # Projeto e-commerce com Power BI
 
+https://app.powerbi.com/view?r=eyJrIjoiMDIxZDNmMzAtMTIwZC00ZmQ3LTk4ZjQtZDg2ZTVjYzFjYjU4IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
+
 O projeto destaca o **Business Intelligence** para o **e-commerce** de um petshop fictício chamado Pets. Nele, foram realizadas as etapas de conexão Web com o Google Sheets para gerar a **fonte de dados e limpeza de dados, criação de medidas e cálculos dinâmicos,** além da construção de um dashboard interativo e visualmente atraente. 
 
 **A proposta** foi desenvolvida a fim de visualizar uma série de **pontos específicos** que inclui a criação de um dashboard funcional para apresentar informações sobre o **faturamento total, faturamento por mês, vendas por marca, produtos disponíveis, faturamento por produto, gênero que mais compra cada produto e a média de pets por cliente.**  
